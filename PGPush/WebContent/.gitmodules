@@ -1,0 +1,3 @@
+[submodule "businesslogic"]
+	path = businesslogic
+	url = https://github.com/KinveyApps/Push-BusinessLogic.git

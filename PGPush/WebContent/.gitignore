@@ -1,0 +1,6 @@
+platforms/
+plugins/
+node_modules/
+.DS_Store
+www/js/config.js
+www/js/PushNotification.js
